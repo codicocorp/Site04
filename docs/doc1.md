@@ -6,3 +6,4 @@ Este es el primer cambio
 
 - Tengo que cambiar algunas cosas en netlify
 - Pero lo bueno es que tiene muchas opciones
+- Otro cambio
