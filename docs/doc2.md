@@ -1,3 +1,8 @@
 # Doc 2
 
-This is the second document.
+## Segundo cambio
+Para cada Paquete de Trabajo voy a crear un repo
+
+## Pendientes
+- Probar subir una imagen
+- Link internos
