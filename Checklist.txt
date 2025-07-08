@@ -1,0 +1,9 @@
+
+# Docsify Quick Checklist (Per Work Package Site)
+
+1. 🔁 Duplicate the starter folder and rename it for your Work Package (e.g., WP01).
+2. 📝 Edit or replace the markdown files inside `/docs` and `README.md`.
+3. 📋 Update `_sidebar.md` with links to your new docs.
+4. 🖥 Double-click `index.html` to preview the site locally.
+5. 🆙 Push the folder to GitHub if needed.
+6. 🌐 (Optional) Connect the GitHub repo to Netlify for live publishing.
